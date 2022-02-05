@@ -1,4 +1,4 @@
-### Hi I'm Jerine, Welcome to my play ground 🛼
+### Hi I'm Jerine, Welcome to my playground 🛼
 Coming soon . . .
 
 <!--
