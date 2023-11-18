@@ -1,6 +1,9 @@
 ### Hi I'm Jerine, Welcome to my playground 🛼
 Coming soon . . .
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerinestation&show_icons=true&locale=en&count_private=true" alt="jerinestation" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerinestation&show_icons=true&locale=en&layout=compact&langs_count=8" alt="jerinestation" />
 <!--
 **Itsjerine/Itsjerine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
